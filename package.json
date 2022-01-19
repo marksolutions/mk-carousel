@@ -1,0 +1,26 @@
+{
+  "name": "@mark/mk-carousel",
+  "version": "1.0.0",
+  "main": "mk-carousel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marksolutions/mk-carousel.git"
+  },
+  "keywords": [
+    "lit"
+  ],
+  "author": "Hiten Bhayani",
+  "bugs": {
+    "url": "https://github.com/marksolutions/mk-carousel/issues"
+  },
+  "homepage": "https://github.com/marksolutions/mk-carousel#README.md",
+  "dependencies": {
+    "lit": "^2.1.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
